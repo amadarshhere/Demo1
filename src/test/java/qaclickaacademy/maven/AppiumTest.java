@@ -7,6 +7,8 @@ public class AppiumTest {
 	public void mobile()
 	{
 		System.out.println("versions");
+		System.out.println("release");
+		System.out.println("operating edition");
 	}
 @Test
 public void app()
