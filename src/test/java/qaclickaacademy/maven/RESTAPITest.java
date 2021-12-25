@@ -8,6 +8,7 @@ public void getdata()
 {
 		System.out.println("data");
 		System.out.println("psu data");
+		System.out.println("popup");
 
 	}
 @Test

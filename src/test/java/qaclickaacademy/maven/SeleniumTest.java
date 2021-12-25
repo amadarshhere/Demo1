@@ -9,6 +9,7 @@ public void browser()
 	System.out.println("browser");
 	System.out.println("chrome");
 	System.out.println("firefox");
+	System.out.println("edge");
 }
 @Test
 public void system()
