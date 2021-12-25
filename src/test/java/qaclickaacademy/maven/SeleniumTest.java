@@ -7,6 +7,8 @@ public class SeleniumTest {
 public void browser()
 {
 	System.out.println("browser");
+	System.out.println("chrome");
+	System.out.println("firefox");
 }
 @Test
 public void system()

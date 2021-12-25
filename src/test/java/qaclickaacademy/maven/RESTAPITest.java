@@ -7,6 +7,7 @@ public class RESTAPITest {
 public void getdata()
 {
 		System.out.println("data");
+		System.out.println("psu data");
 
 	}
 @Test
