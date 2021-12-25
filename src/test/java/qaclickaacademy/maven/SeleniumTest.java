@@ -12,5 +12,7 @@ public void browser()
 public void system()
 {
 System.out.println("system");
+System.out.println("destroy");
+System.out.println("matrix");
 }
 }
